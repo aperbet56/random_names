@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+/**** Reset ****/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+    outline: none;
+}
+
+/**** Style général de la page ****/
+
+body {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Roboto", sans-serif;
+    background-color: #3b8da8;
+    padding: 1rem;
+}
+
+.container {
+    width: calc(768px - 1rem);
+    padding: 16px;
+    background-color: #0f2229;
+    color: #ffffff;
+    border-radius: 15px;
+    box-shadow: inset 3px 3px 3px rgba(255, 255, 255, 1);
+}
+
+h2 {
+    text-transform: uppercase;
+    font-size: 1.4rem;
+    font-weight: 400;
+    text-align: center;
+}
+
+.form {
+    position: relative;
+    width: 100%;
+    margin: 2rem 0;
+}
+
+.number__input {
+    width: 100%;
+    background-color: #1a3a46;
+    color: #ffffff;
+    font-size: 1.2rem;
+    padding: 15px 145px 15px 12px;
+    border-radius: 10px;
+}
+
+.btn {
+    position: absolute;
+    top: 3px;
+    right: 3px;
+    padding: 12px;
+    border-radius: 10px;
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    background-color: #0f2229;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+.result {
+    background-color: #1a3a46;
+    color: #ffffff;
+    padding: 12px;
+    border-radius: 15px;
+}
+
+.result__span {
+    font-size: 1.2rem;
+    font-weight: 300;
+    letter-spacing: 0.3px;
+    text-transform: uppercase;
+}
