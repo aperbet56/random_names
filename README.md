@@ -6,7 +6,7 @@ Création d'un générateur de nom aléatoire qui va permettre à l'utilisateur 
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/random_names/
 
 ## Développez avec
 
