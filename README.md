@@ -12,7 +12,7 @@ Lien vers le projet : https://aperbet56.github.io/random_names/
 
 - Utilisation des balises sémantiques HTML5
 - Importation de la police Roboto
-- CSS
+- CSS3
 - Flexbox
 - Page web responsive
 - Desktop first
