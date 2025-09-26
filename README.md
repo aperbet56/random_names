@@ -1,5 +1,7 @@
 ## GENERATEUR DE NOMS ALEATOIRE
 
+![Design preview for the project](./img/preview.png)
+
 ## Le challenge
 
 Création d'un générateur de nom aléatoire qui va permettre à l'utilisateur de créer jusqu'à 5 noms au maximun.
@@ -8,10 +10,10 @@ Création d'un générateur de nom aléatoire qui va permettre à l'utilisateur 
 
 Lien vers le projet : https://aperbet56.github.io/random_names/
 
-## Développez avec
+## Projet développé avec
 
 - Utilisation des balises sémantiques HTML5
-- Importation de la police Roboto
+- Importation de la police "Roboto"
 - CSS3
 - Flexbox
 - Page web responsive
